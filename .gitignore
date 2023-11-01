@@ -1,0 +1,17 @@
+# IDEs
+.idea/
+.vscode/
+
+# Mac
+.DS_Store
+_DS_Store
+
+# __pycache__
+__pycache__/
+**/__pycache__/
+
+# checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
